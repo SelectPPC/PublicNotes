@@ -5,5 +5,5 @@
 -- List of color names: https://semantic-ui.com/usage/theming.html#sitewide-defaults
 , theme = "teal"
 -- This is used in the "edit" button
-, editUrl = Some "http://selectppc.github.io/PublicNotes/edit/master/"
+, editUrl = Some "https://github.com/SelectPPC/PublicNotes/edit/master/index.md"
 }
