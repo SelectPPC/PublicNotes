@@ -1,4 +1,4 @@
-# Детальніше про цей сайт
+# Про нас
 ...
 
 ## How to publish your own [neuron] site
